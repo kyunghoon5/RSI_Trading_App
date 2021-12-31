@@ -17,31 +17,31 @@
 
         <fragment
             android:id="@+id/loginFragment"
-            android:name="com_chrisdemonte_cs370_fall21_tradingapp.github.rsitradingapp.gui.LoginFragment"
+            android:name="com_group_cs370_fall21_tradingapp.github.rsitradingapp.gui.LoginFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
         <fragment
             android:id="@+id/homeFragment"
-            android:name="com_chrisdemonte_cs370_fall21_tradingapp.github.rsitradingapp.gui.HomeFragment"
+            android:name="com_group_cs370_fall21_tradingapp.github.rsitradingapp.gui.HomeFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
         <fragment
             android:id="@+id/accountEditFragment"
-            android:name="com_chrisdemonte_cs370_fall21_tradingapp.github.rsitradingapp.gui.AccountEditFragment"
+            android:name="com_group_cs370_fall21_tradingapp.github.rsitradingapp.gui.AccountEditFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
         <fragment
             android:id="@+id/addStockFragment"
-            android:name="com_chrisdemonte_cs370_fall21_tradingapp.github.rsitradingapp.gui.AddStockFragment"
+            android:name="com_group_cs370_fall21_tradingapp.github.rsitradingapp.gui.AddStockFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
         <fragment
             android:id="@+id/simFragment"
-            android:name="com_chrisdemonte_cs370_fall21_tradingapp.github.rsitradingapp.gui.SimulationFragment"
+            android:name="com_group_cs370_fall21_tradingapp.github.rsitradingapp.gui.SimulationFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
     </FrameLayout>
