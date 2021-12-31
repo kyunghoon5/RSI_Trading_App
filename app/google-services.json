@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930038289719",
+    "firebase_url": "https://rsi-stock-app-default-rtdb.firebaseio.com",
+    "project_id": "rsi-stock-app",
+    "storage_bucket": "rsi-stock-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930038289719:android:768f6f66bafa9b89fe76b2",
+        "android_client_info": {
+          "package_name": "com_chrisdemonte_cs370_fall21_tradingapp.github.rsitradingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930038289719-bvre9cnkgm4h0imr1ivreh1rinkr8nk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81bkRjbSMz1U3cRZmySWr9lTyhSqTaJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930038289719-bvre9cnkgm4h0imr1ivreh1rinkr8nk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
