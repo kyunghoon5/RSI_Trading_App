@@ -11,8 +11,13 @@ Momentum Strategies: speculative trading strategies that hypothesize that a curr
 Mean Regression Strategies: strategies that hypothesize that stock prices will continue to center around an average price. 
 
 
-Test Plan.
+Test Plan:
+
+
 Please check Test Plan.doc
+
+
+
 
 
 GUI and Architectural Design
